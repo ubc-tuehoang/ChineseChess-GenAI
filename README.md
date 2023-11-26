@@ -14,7 +14,7 @@ AI Engagement in Chinese Chess.
 
 
 * Prompt OpenAI: Analyze the counter-move from BardAI and subsequently provide a counter-move.
-
+* 
 
 <img width="302" alt="Screen Shot 2023-11-26 at 12 07 39 PM" src="https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/ea0f820d-57b5-4443-8793-d5dcc37078a8">
 

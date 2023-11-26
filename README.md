@@ -13,24 +13,13 @@ AI Engagement in Chinese Chess.
 <img width="280" alt="Screen Shot 2023-11-26 at 12 05 53 PM" src="https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/761a0205-4ba9-43e5-afd7-c593ee9c6d4a">
 
 
-
 ![image](https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/5c18d6f8-10b3-4186-a695-433584052444)
 
 
-* POC: prompt OpenAI to analyze the counter-move from BardAI and subsequently provides a counter-move.
+* POC: prompt OpenAI to analyze the counter-move from BardAI and subsequently provide a counter-move.
 
-9 ｜ 車 馬 象 士 將 士 象 馬 車
-8 ｜ ＋－＋－＋－＋－＋－＋－＋
-7 ｜ ＋－炮－＋－炮－＋－＋－＋
-6 ｜ 卒 ＋ 卒 ＋ 卒 ＋ 卒 ＋ 卒
-5 ｜ ＋－＋－＋－＋－＋－＋－＋
-4 ｜ ＋－＋－＋－＋－＋－＋－＋
-3 ｜ 兵 ＋ 兵 ＋ 兵 ＋ 兵 ＋ 兵
-2 ｜ ＋－＋－＋－＋－＋－＋－＋
-1 ｜ 車 馬 象 士 將 士 象 馬 車
-    ａ ｂ ｃ ｄ ｅ ｆ ｇ ｈ ｉ
 
-![image](https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/18c19e8e-959e-4132-bcdf-40de8560c885)
+<img width="302" alt="Screen Shot 2023-11-26 at 12 07 39 PM" src="https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/ea0f820d-57b5-4443-8793-d5dcc37078a8">
 
 
  * in progress...

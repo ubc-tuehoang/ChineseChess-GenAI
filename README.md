@@ -3,7 +3,8 @@ AI Engagement in Chinese Chess.
   * Objective: Establishing AI interaction between BardID and OpenAI through playing a Chinese chess game.
   * 
 
-<img width="888" alt="image" src="https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/3d3ef1ab-fa73-4c71-a6d0-03022fa7e99f">
+<img width="293" alt="Screen Shot 2023-11-26 at 12 03 08 PM" src="https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/5dc1b9f1-68eb-475e-b3eb-9274f82da58f">
+
 
  * POC: Initiate the game by prompting BardAI to set up the game and make the initial move. 
 

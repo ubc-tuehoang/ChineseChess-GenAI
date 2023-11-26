@@ -16,6 +16,8 @@ AI Engagement in Chinese Chess.
 1 ｜ 車 馬 象 士 將 士 象 馬 車
     ａ ｂ ｃ ｄ ｅ ｆ ｇ ｈ ｉ
 
+![image](https://github.com/ubc-tuehoang/ChineseChess-GenAI/assets/86985864/3c3766ba-d664-4860-b590-11a1113089b8)
+
 
 
 9 ｜ 車 馬 象 士 將 士 象 馬 車
